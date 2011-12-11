@@ -2,7 +2,7 @@
 
 Usage is pretty simple.
 
-	# Get a instance of the API (this is YOUR apikey)
+	# Get a instance of the API (while passing in your apikey)
 	api = PyAptgraph('wKJtkVQ3QXoUJW5hryrFXRXDEoJhiwFmvA2KEWMSNH3AcMMPsx')
 
 	# Add a couple of random values to this graph, then send it to Aptgraph
